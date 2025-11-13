@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../README.md" />
+  </Folder>
+  <Project Path="MalformedHtmlFix.UnitTest/MalformedHtmlFix.UnitTest.csproj" Id="a1609ca8-82d7-4afe-9678-36b7d66a4029" />
+  <Project Path="MalformedHtmlFix/MalformedHtmlFix.csproj" Id="8b5f546c-468c-4aef-8478-a02947a3b123" />
+</Solution>
